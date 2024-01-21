@@ -1,0 +1,30 @@
+Task 2
+
+Why do you like to join as a Software developer?
+
+	I want to become a software developer because I enjoy solving real-world problems through logical thinking and creative solutions, and I'm excited about being at the forefront of technological innovation.
+
+List top 3 softwares / tools that inspire you. Why do these tools inspire you?
+
+-> Python Programming 
+-> Database
+-> Raptor Flow Chart tool
+
+	In my high school studies I took the computer science course that helped me a lot by solving the problem, how to analyze the problem and thinking in different aspects.  During my high school time I studied python programming, database concepts and sql queries. These languages have only helped me to get into the technology world. 
+
+
+List top 3 organisations you like to join in your career & why you like these organisations.
+
+	In my opinion, each and everyone has different aspects and opinions. As I'm a tech enthusiast, I would like to join every company in the tech industry. 
+As mentioned in the question I would like to say, Coinbase, LinkedIn and Zennode.
+
+
+How you position yourself in this industry after 2 years.
+
+	In two years, I aim to be an accomplished software developer known for delivering innovative solutions and contributing to the community through open-source projects. Continuous learning and adaptability would be at the forefront of my career, allowing me to stay abreast of the ever-evolving tech landscape. Additionally, I would like to mentor and share my knowledge with the community, contributing to the growth of others in the field.
+
+
+List 3 projects / products you have built or have planned to build in the upcoming year, also explain your role in the same.
+
+Hybrid Algorithm Using Cryptographic Technique for Communication System (Security Project) [Developer by me]
+-> I would like to build some projects for society that will need to help everyone in the world. I'm trying to figure it out and that will be my next two projects.
